@@ -1,5 +1,5 @@
 
-# Armamos una lista con nombre Beatles. Pasar al VS
+# Armamos una lista con nombre Beatles. 
 Beatles = []
 
 # Agregamos sus nombres:
